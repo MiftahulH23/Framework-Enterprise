@@ -1,0 +1,14 @@
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.AssemblyInfoInputs.cache
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.AssemblyInfo.cs
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.csproj.CoreCompileInputs.cache
+D:\Semester 5\Framework\Latihan\Latihan\bin\Debug\net6.0\Latihan.exe
+D:\Semester 5\Framework\Latihan\Latihan\bin\Debug\net6.0\Latihan.deps.json
+D:\Semester 5\Framework\Latihan\Latihan\bin\Debug\net6.0\Latihan.runtimeconfig.json
+D:\Semester 5\Framework\Latihan\Latihan\bin\Debug\net6.0\Latihan.dll
+D:\Semester 5\Framework\Latihan\Latihan\bin\Debug\net6.0\Latihan.pdb
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.dll
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\refint\Latihan.dll
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.pdb
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\Latihan.genruntimeconfig.cache
+D:\Semester 5\Framework\Latihan\Latihan\obj\Debug\net6.0\ref\Latihan.dll
