@@ -107,7 +107,7 @@
             this.columnDetail,
             this.columnDeadline});
             this.listView1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.listView1.ForeColor = System.Drawing.SystemColors.Window;
+            this.listView1.ForeColor = System.Drawing.SystemColors.MenuText;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(0, 290);
