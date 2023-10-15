@@ -89,5 +89,10 @@ namespace ToDoList
                 listView1.Items.Remove(selectedItem);
             }
         }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

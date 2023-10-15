@@ -46,10 +46,10 @@
             // MK
             // 
             this.MK.AutoSize = true;
-            this.MK.Location = new System.Drawing.Point(28, 30);
-            this.MK.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.MK.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MK.Location = new System.Drawing.Point(42, 46);
             this.MK.Name = "MK";
-            this.MK.Size = new System.Drawing.Size(63, 13);
+            this.MK.Size = new System.Drawing.Size(103, 20);
             this.MK.TabIndex = 0;
             this.MK.Text = "Mata Kuliah";
             this.MK.Click += new System.EventHandler(this.MK_Click);
@@ -57,46 +57,43 @@
             // Detail
             // 
             this.Detail.AutoSize = true;
-            this.Detail.Location = new System.Drawing.Point(28, 73);
-            this.Detail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Detail.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Detail.Location = new System.Drawing.Point(42, 112);
             this.Detail.Name = "Detail";
-            this.Detail.Size = new System.Drawing.Size(67, 13);
+            this.Detail.Size = new System.Drawing.Size(110, 20);
             this.Detail.TabIndex = 1;
             this.Detail.Text = "Detail Tugas";
             // 
             // Deadline
             // 
             this.Deadline.AutoSize = true;
-            this.Deadline.Location = new System.Drawing.Point(28, 110);
-            this.Deadline.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Deadline.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Deadline.Location = new System.Drawing.Point(42, 169);
             this.Deadline.Name = "Deadline";
-            this.Deadline.Size = new System.Drawing.Size(102, 13);
+            this.Deadline.Size = new System.Drawing.Size(170, 20);
             this.Deadline.TabIndex = 2;
             this.Deadline.Text = "Batas Pengumpulan";
             this.Deadline.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtMK
             // 
-            this.txtMK.Location = new System.Drawing.Point(172, 30);
-            this.txtMK.Margin = new System.Windows.Forms.Padding(2);
+            this.txtMK.Location = new System.Drawing.Point(258, 46);
             this.txtMK.Name = "txtMK";
-            this.txtMK.Size = new System.Drawing.Size(241, 20);
+            this.txtMK.Size = new System.Drawing.Size(360, 26);
             this.txtMK.TabIndex = 3;
             // 
             // txtDetail
             // 
-            this.txtDetail.Location = new System.Drawing.Point(172, 73);
-            this.txtDetail.Margin = new System.Windows.Forms.Padding(2);
+            this.txtDetail.Location = new System.Drawing.Point(258, 112);
             this.txtDetail.Name = "txtDetail";
-            this.txtDetail.Size = new System.Drawing.Size(241, 20);
+            this.txtDetail.Size = new System.Drawing.Size(360, 26);
             this.txtDetail.TabIndex = 4;
             // 
             // btnSimpan
             // 
-            this.btnSimpan.Location = new System.Drawing.Point(224, 148);
-            this.btnSimpan.Margin = new System.Windows.Forms.Padding(2);
+            this.btnSimpan.Location = new System.Drawing.Point(336, 228);
             this.btnSimpan.Name = "btnSimpan";
-            this.btnSimpan.Size = new System.Drawing.Size(58, 25);
+            this.btnSimpan.Size = new System.Drawing.Size(87, 38);
             this.btnSimpan.TabIndex = 6;
             this.btnSimpan.Text = "Simpan";
             this.btnSimpan.UseVisualStyleBackColor = true;
@@ -104,20 +101,22 @@
             // 
             // listView1
             // 
+            this.listView1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnMK,
             this.columnDetail,
             this.columnDeadline});
             this.listView1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.listView1.ForeColor = System.Drawing.SystemColors.Window;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(0, 187);
-            this.listView1.Margin = new System.Windows.Forms.Padding(2);
+            this.listView1.Location = new System.Drawing.Point(0, 290);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(533, 105);
+            this.listView1.Size = new System.Drawing.Size(800, 159);
             this.listView1.TabIndex = 7;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // columnMK
             // 
@@ -136,18 +135,18 @@
             // 
             // dateTimeDeadline
             // 
-            this.dateTimeDeadline.Location = new System.Drawing.Point(172, 110);
-            this.dateTimeDeadline.Margin = new System.Windows.Forms.Padding(2);
+            this.dateTimeDeadline.Location = new System.Drawing.Point(258, 169);
             this.dateTimeDeadline.Name = "dateTimeDeadline";
-            this.dateTimeDeadline.Size = new System.Drawing.Size(241, 20);
+            this.dateTimeDeadline.Size = new System.Drawing.Size(360, 26);
             this.dateTimeDeadline.TabIndex = 8;
             this.dateTimeDeadline.Value = new System.DateTime(2023, 10, 13, 22, 56, 21, 0);
             // 
             // btnEdit
             // 
-            this.btnEdit.Location = new System.Drawing.Point(287, 148);
+            this.btnEdit.Location = new System.Drawing.Point(430, 228);
+            this.btnEdit.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnEdit.Name = "btnEdit";
-            this.btnEdit.Size = new System.Drawing.Size(60, 25);
+            this.btnEdit.Size = new System.Drawing.Size(90, 38);
             this.btnEdit.TabIndex = 9;
             this.btnEdit.Text = "Edit";
             this.btnEdit.UseVisualStyleBackColor = true;
@@ -155,9 +154,10 @@
             // 
             // btnHapus
             // 
-            this.btnHapus.Location = new System.Drawing.Point(353, 148);
+            this.btnHapus.Location = new System.Drawing.Point(530, 228);
+            this.btnHapus.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnHapus.Name = "btnHapus";
-            this.btnHapus.Size = new System.Drawing.Size(60, 25);
+            this.btnHapus.Size = new System.Drawing.Size(90, 38);
             this.btnHapus.TabIndex = 10;
             this.btnHapus.Text = "Hapus";
             this.btnHapus.UseVisualStyleBackColor = true;
@@ -165,10 +165,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(533, 292);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(800, 449);
             this.Controls.Add(this.btnHapus);
             this.Controls.Add(this.btnEdit);
             this.Controls.Add(this.dateTimeDeadline);
@@ -179,7 +179,6 @@
             this.Controls.Add(this.Deadline);
             this.Controls.Add(this.Detail);
             this.Controls.Add(this.MK);
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "To Do LIst";
             this.Load += new System.EventHandler(this.Form1_Load);
