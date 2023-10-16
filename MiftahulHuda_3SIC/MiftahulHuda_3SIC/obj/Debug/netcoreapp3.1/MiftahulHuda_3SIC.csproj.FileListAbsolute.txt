@@ -1,0 +1,14 @@
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.exe
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.deps.json
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.runtimeconfig.json
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.runtimeconfig.dev.json
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.dll
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\bin\Debug\netcoreapp3.1\MiftahulHuda_3SIC.pdb
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.csproj.AssemblyReference.cache
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.AssemblyInfoInputs.cache
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.AssemblyInfo.cs
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.csproj.CoreCompileInputs.cache
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.dll
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.pdb
+D:\MiftahulHuda3SIC\MiftahulHuda_3SIC\MiftahulHuda_3SIC\obj\Debug\netcoreapp3.1\MiftahulHuda_3SIC.genruntimeconfig.cache
