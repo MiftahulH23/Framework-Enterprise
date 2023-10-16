@@ -1,0 +1,15 @@
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\bin\Debug\Nama.exe.config
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\bin\Debug\Nama.exe
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\bin\Debug\Nama.pdb
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.csprojAssemblyReference.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\MainWindow.g.cs
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\App.g.cs
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama_MarkupCompile.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama_MarkupCompile.lref
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\MainWindow.baml
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.g.resources
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.Properties.Resources.resources
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.csproj.GenerateResource.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.csproj.CoreCompileInputs.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.exe
+D:\MiftahulHuda_3SIC\Framework-Enterprise\Nama\Nama\obj\Debug\Nama.pdb
