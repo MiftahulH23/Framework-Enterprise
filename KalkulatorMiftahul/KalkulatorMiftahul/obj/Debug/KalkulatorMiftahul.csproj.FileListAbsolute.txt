@@ -1,0 +1,15 @@
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\bin\Debug\KalkulatorMiftahul.exe.config
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\bin\Debug\KalkulatorMiftahul.exe
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\bin\Debug\KalkulatorMiftahul.pdb
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.csprojAssemblyReference.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\MainWindow.g.cs
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\App.g.cs
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul_MarkupCompile.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul_MarkupCompile.lref
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\MainWindow.baml
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.g.resources
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.Properties.Resources.resources
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.csproj.GenerateResource.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.csproj.CoreCompileInputs.cache
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.exe
+D:\MiftahulHuda_3SIC\Framework-Enterprise\KalkulatorMiftahul\KalkulatorMiftahul\obj\Debug\KalkulatorMiftahul.pdb
