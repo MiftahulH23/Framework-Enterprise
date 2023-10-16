@@ -101,23 +101,57 @@ namespace KalkulatorMiftahul
 
         private void result_Click(object sender, RoutedEventArgs e)
         {
-            //screen.Text = screen.Text + "=";
-            Type scriptType = Type.GetTypeFromCLSID(Guid.Parse("0E59F1D5-1FBE-11D0-8FF2-00A0D10038BC"));
-            dynamic obj = Activator.CreateInstance(scriptType, false);
-            obj.Language = "javascript";
-            string str = null;
+            string expression = screen.Text;
+            string[] operators = new string[] { "+", "-", "*", "/" };
 
             try
             {
-                var res = obj.Eval(screen.Text);
-                str = Convert.ToString(res);
-                screen.Text = screen.Text + "=" + str;
-            }
-            catch (SystemException)
-            {
+                // Mencari operator dalam ekspresi untuk memisahkan angka.
+                foreach (string op in operators)
+                {
+                    string[] operands = expression.Split(new string[] { op }, StringSplitOptions.RemoveEmptyEntries);
+                    if (operands.Length == 2)
+                    {
+                        double num1 = double.Parse(operands[0]);
+                        double num2 = double.Parse(operands[1]);
+                        double result = 0;
 
+                        // Melakukan perhitungan sesuai operator.
+                        switch (op)
+                        {
+                            case "+":
+                                result = num1 + num2;
+                                break;
+                            case "-":
+                                result = num1 - num2;
+                                break;
+                            case "*":
+                                result = num1 * num2;
+                                break;
+                            case "/":
+                                if (num2 != 0)
+                                    result = num1 / num2;
+                                else
+                                {
+                                    screen.Text = "Error: Division by zero";
+                                    return;
+                                }
+                                break;
+                        }
+
+                        // Menampilkan hasil perhitungan pada layar.
+                        screen.Text = result.ToString();
+                        return;
+                    }
+                }
+
+                // Jika tidak ada operator yang ditemukan, menampilkan pesan kesalahan.
+                screen.Text = "Salah Input";
+            }
+            catch (Exception)
+            {
+                // Menampilkan pesan kesalahan jika terjadi pengecualian.
                 screen.Text = "Salah Input";
             }
         }
     }
-}

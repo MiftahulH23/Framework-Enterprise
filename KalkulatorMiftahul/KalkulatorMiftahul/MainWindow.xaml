@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KalkulatorMiftahul"
         mc:Ignorable="d"
-        Title="MainWindow" Height="386.768" Width="363.115">
+        Title="Kalkulator Sederhana" Height="386.768" Width="363.115">
     <Grid>
         <TextBox x:Name="screen" HorizontalAlignment="Left" Height="61" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241" FontSize="35"/>
         <Button x:Name="one" Content="1" HorizontalAlignment="Left" Margin="10,222,0,0" VerticalAlignment="Top" Width="69" Height="52" FontSize="35" Click="one_Click"/>
